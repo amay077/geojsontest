@@ -1,0 +1,29 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }, 
+        "type": "name"
+    }, 
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [137.0, 35.0], 
+                        [140.0, 35.0], 
+                        [140.0, 36.0], 
+                        [137.0, 36.0], 
+                        [137.0, 35.0]
+                    ]
+                ], 
+                "type": "Polygon"
+            }, 
+            "properties": {
+                "LICENSE": "ABRA-080135"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
